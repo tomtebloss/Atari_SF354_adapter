@@ -14,7 +14,7 @@ Change original pcb to be able to read double sided floppy.
 
 ## Background  
 
-I bought an old SF354 case with broken (dried belt) single sided floppy drive to convert to gotek. The case was for the big eject button version. Apparently there is (at least) two different version of the pcb inside. One can be used with double sided drives without modifications. And one with a lot of components on the pcb that needs modifications to work with double sided drives (the one I got above). I didn't get any signal cable or power cable/brick with my SF354 so it was no meaning to modify the old pcb since I hade to source a power cable for it. So I did a new PCB instead and used USB-C to power it. 
+I bought an old SF354 case with broken (dried belt) single sided floppy drive to convert to gotek. The case was for the big eject button version. Apparently there is (at least) two different version of the pcb inside. One can be used with double sided drives without modifications. And one with a lot of components on the pcb that needs modifications to work with double sided drives (the one I got). I didn't get any signal cable or power cable/brick with my SF354 so it was no meaning to modify the old pcb since I hade to source a power cable for it. So I did a new PCB instead and used USB-C to power it. 
 
 <img title="SF354 original pcb top" style="width:46%" align=top src="images/old pcb top.jpg"><img title="SF354 original pcb bottom" style="width:52%" align=top src="images/old pcb bottom.jpg">
 
