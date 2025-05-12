@@ -8,7 +8,7 @@ Change original pcb to be able to read double sided floppy.
 
 ---
 
-<img title="new pcb top" style="width:60%" align=top src="images/pcb top angle.jpg">
+<img title="new pcb top" style="width:70%" align=center src="images/pcb top angle.jpg">
 
 ---
 
