@@ -61,9 +61,7 @@ You do not need a hot air station/gun. Chip can be desolder by bending a thick c
 
 I tested this with a Mega ST 1 upgraded to 4Mb and with a TSENG ET4000AX graphics card. I also used 256Kb roms (EmuTOS v1.3 and TOS v2.06). I used two Goteks in the picture below but I also tested with two real floppy disk drives. But it should work with any double sided drive and system I hope.
 
-
 <img title="screenshot" width="500rem" src="images/screenshot with A and B.jpg">
-<br>
 <img title="testsystem" width="500rem" src="images/testsystem.jpg">
 
 ---
