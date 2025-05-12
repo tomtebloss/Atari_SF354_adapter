@@ -31,7 +31,7 @@ I bought an old SF354 case with broken (dried belt) single sided floppy drive to
 - 1 34 pin IDC connector. (or solder the wires directly to the pcb).
 - 1 USB-C 6 pin SMD connector.
 - 1 switch (SPDT) or small piece of wire if you don't use it. 
-- 1 Gotek or disk drive. If Gotek is used you must remove motor on jumper. Only DS0 should be jumpered.
+- 1 Gotek or disk drive. If Gotek is used you must remove motor on jumper (MO). Only S0 should be jumpered.
 - 1 3D printed [bracket] for Gotek pcb. 
 
 BOM/partlist can also be found in the [gerber] zip. There is also PDFs for some parts.
@@ -45,13 +45,13 @@ BOM/partlist can also be found in the [gerber] zip. There is also PDFs for some 
 | I choose a switch and solder some wires and drilled, saw and filed some parts from the old gotek case. Square part goes inside of case (pic taken before I realized that I needed hole for USB connector). Small disc in the hole then large disc then switch. It will be a sandwich with the case in the middle. If you don't want a switch you have to solder a small wire between the holes that says LINK. Otherwise you will not have power for your drive. | <img title="parts for switch" style="width:65%" align=top src="images/parts for switch.jpg">   <img title="back of case" style="width:32%" align=top src="images/case with small disc.jpg"> |
 | The 3D printed front panel has a hole for a 2x5mm LED. I desoldered the round one from the gotek pcb and solderd in some pinheaders instead. I then soldered some wires on a new LED. The orientation can easily be switched if it doesn't lit up. | <img title="pins on gotek for LED behind button" style="width:62%" align=top src="images/gotek pins for led.jpg">   <img title="2x5mm LED with wires and heat shrink tube" style="width:36%" align=top src="images/led 2x5mm.jpg"> |
 | Assemble everything. Fasten with screw. I also used a rotary encoder and a buzzer on my gotek. You can use whatever mod you like on yours. Check flashfloppy [hardware mods]. | <img title="all mounted" style="width:100%" src="images/all mounted.jpg"> |
-| <img title="Assembled front side" style="width:56%" align=right src="images/finished front.jpg"> | <img title="Assembled back side" style="width:100%" src="images/finished back.jpg"> |
+| <img title="Assembled front side" style="width:55%" align=right src="images/finished front.jpg"> | <img title="Assembled back side" style="width:100%" src="images/finished back.jpg"> |
 
 ---
 
 ## Testing
 
-I tested this with a Mega ST 1 upgraded to 4Mb and with a TSENG ET4000AX graphics card. I also used 256Kb roms (EmuTOS v1.3 and TOS v2.06). I used two Goteks in the picture below but I also tested with two real floppy disk drives. But it should work with any double sided drive and system I hope.
+I tested this with a Mega ST 1 upgraded to 4Mb and with a TSENG ET4000AX graphics card. I also used 256Kb roms (EmuTOS v1.3 and TOS v2.06). I used two Goteks in the picture below but I also tested with two real floppy disk drives. But it should work with any double sided drive and system I hope. Do NOT use MO jumper on the Gotek otherwise it will not work! Only use S0 jumper.
 
 <img title="screenshot" width="500rem" src="images/screenshot with A and B.jpg">
 <img title="testsystem" width="500rem" src="images/testsystem.jpg">
