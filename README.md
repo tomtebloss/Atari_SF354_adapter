@@ -34,7 +34,7 @@ I bought an old SF354 case with broken (dried belt) single sided floppy drive to
 - 1 Gotek or disk drive. If Gotek is used you must remove motor on jumper (MO). Only S0 should be jumpered.
 - 1 3D printed [bracket] for Gotek pcb. 
 
-BOM/partlist can also be found in the [gerber] zip. There is also PDFs for some parts.
+BOM/partlist can also be found in the [gerber] zip. There is also [PDF] for some parts.
 
 ---
 
@@ -64,7 +64,7 @@ PCB made by Daniel Guldkrans aka DoG in Eagle April 2025.
 
 
 
-
+[PDF]: pdf/
 [gerber]: gerber/SF354_adapter_pcb_gerber_v1.5.zip
 [bracket]: https://www.thingiverse.com/thing:6960806
 [hardware mods]: https://github.com/keirf/flashfloppy/wiki/Hardware-Mods
