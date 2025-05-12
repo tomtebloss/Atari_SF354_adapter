@@ -75,6 +75,6 @@ PCB made by Daniel Guldkrans aka DoG in Eagle April 2025.
 
 
 
-[gerber]: gerbers/SF354_adapter_pcb_gerber_v1.5.zip
+[gerber]: gerber/SF354_adapter_pcb_gerber_v1.5.zip
 [bracket]: https://www.thingiverse.com/thing:6960806
 
