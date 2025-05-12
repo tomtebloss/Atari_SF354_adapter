@@ -51,7 +51,7 @@ BOM/partlist can also be found in the [gerber] zip. There is also PDFs for some 
 
 ## Testing
 
-I tested this with a Mega ST 1 upgraded to 4Mb and with a TSENG ET4000AX graphics card. I also used 256Kb roms (EmuTOS v1.3 and TOS v2.06). I used two Goteks in the picture below but I also tested with two real floppy disk drives. But it should work with any double sided drive and system I hope. Do NOT use MO jumper on the Gotek otherwise it will not work! Only use S0 jumper.
+I tested this with a Mega ST 1 upgraded to 4Mb and with a TSENG ET4000AX graphics card. I also used 256Kb roms (EmuTOS v1.3 and TOS v2.06). I used two Goteks in the picture below but I also tested with two real floppy disk drives. But it should work with any double sided drive and system I hope. Do ***NOT*** use MO jumper on the Gotek otherwise it will not work! Only use S0 jumper. I can't remember what USB charger I used. 1A should be fine.
 
 <img title="screenshot" width="500rem" src="images/screenshot with A and B.jpg">
 <img title="testsystem" width="500rem" src="images/testsystem.jpg">
