@@ -22,17 +22,17 @@ I bought an old SF354 case with a broken (dried belt) single sided floppy drive 
 
 ## What you will need  
 
-- 1 Adapter PCB. Order with the [gerber] file "SF354_adapter_pcb_gerber_v1.5.zip" from your favorite PCB manufactory. 
-- 1 or 2 BERG 4 pin floppy power connector (or solder the wires directly to the pcb).
-- 1 or 2 100nF (0,1uF) 0805 SMD capacitors. This can bew omitted if you want.
-- 1 or 2 1uF capacitors. Either SMD (1206) or through hole (5,12mm leg pitch).
-- 1 47uF electrolytic capacitor. Either SMD (size C. 6,3x7,7mm) or through hole (5mm leg pitch).
-- 2 14 pin DIN connectors. Desolder from old pcb (only 1 is needed).
-- 1 34 pin IDC connector. (or solder the wires directly to the pcb).
-- 1 USB-C 6 pin SMD connector.
-- 1 switch (SPDT) or small piece of wire if you don't use it. 
-- 1 Gotek or disk drive. If Gotek is used you must remove motor on jumper (MO). Only S0 should be jumpered.
-- 1 3D printed [bracket] for Gotek pcb. 
+- One Adapter PCB. Order with the [gerber] file "SF354_adapter_pcb_gerber_v1.5.zip" from your favorite PCB manufactory. 
+- 1 or 2 pcs of BERG 4 pin floppy power connector (or solder the wires directly to the pcb).
+- 1 or 2 pcs of 100nF (0,1uF) 0805 SMD capacitors. This can bew omitted if you want.
+- 1 or 2 pcs of 1uF capacitors. Either SMD (1206) or through hole (5,12mm leg pitch).
+- One 47uF electrolytic capacitor. Either SMD (size C. 6,3x7,7mm) or through hole (5mm leg pitch).
+- 2 pcs of 14 pin DIN connectors. Desolder from old pcb (only one is needed).
+- One 34 pin IDC connector. (or solder the wires directly to the pcb).
+- One USB-C 6 pin SMD connector. Only used for power.
+- One switch (SPDT) or small piece of wire if you don't use it. 
+- One Gotek drive or a real disk drive. If Gotek is used you must remove motor on jumper (MO). Only S0 should be jumpered.
+- One 3D printed [bracket] for Gotek pcb. 
 
 BOM/partlist can also be found in the [gerber] zip. There is also [PDF] for some parts.
 
