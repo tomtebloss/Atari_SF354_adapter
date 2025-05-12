@@ -23,7 +23,7 @@ I bought an old SF354 case with a broken (dried belt) single sided floppy drive 
 ## What you will need  
 
 - 1 Adapter PCB. Order with the [gerber] file "SF354_adapter_pcb_gerber_v1.5.zip" from your favorite PCB manufactory. 
-- 1 or 2 BERG 4 pin floppy power connector (or solder the wires dierectly to the pcb).
+- 1 or 2 BERG 4 pin floppy power connector (or solder the wires directly to the pcb).
 - 1 or 2 100nF (0,1uF) 0805 SMD capacitors. This can bew omitted if you want.
 - 1 or 2 1uF capacitors. Either SMD (1206) or through hole (5,12mm leg pitch).
 - 1 47uF electrolytic capacitor. Either SMD (size C. 6,3x7,7mm) or through hole (5mm leg pitch).
