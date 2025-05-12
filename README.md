@@ -8,8 +8,8 @@ Change original pcb to be able to read double sided floppy.
 
 ---
  
-<img title="SF354 original pcb top" style="width:49%" align=top src="images/old pcb top.jpg">
-<img title="SF354 original pcb bottom" style="width:49%" align=top src="images/old pcb bottom.jpg">
+<img title="SF354 original pcb top" style="width:49%" src="images/old pcb top.jpg">
+<img title="SF354 original pcb bottom" style="width:49%" src="images/old pcb bottom.jpg">
 
 ---
 
