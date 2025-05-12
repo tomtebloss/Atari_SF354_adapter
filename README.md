@@ -1,9 +1,9 @@
 <h1 align="center">
-PCB for use in an Atari SF354/314 housing.
+PCB for use in an Atari SF354/314 case.
 </h1>
 
 <h2 align="center">
-Change original pcb to be able to read double sided floppy.
+Exchange original pcb to be able to read double sided floppy.
 
 ---
 
