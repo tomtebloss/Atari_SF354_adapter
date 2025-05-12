@@ -4,11 +4,11 @@ PCB for use in an Atari SF354/314 housing.
 
 <h2 align="center">
 Change original pcb to be able to read double sided floppy.
-</h2>
 
 ---
 
 <img title="new pcb top" style="width:70%" align="center" src="images/pcb top angle.jpg">
+</h2>
 
 ---
 
